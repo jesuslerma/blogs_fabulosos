@@ -10,3 +10,7 @@ Blog sobre programación en español.
 [https://codenotch.com/blog](https://codenotch.com/blog)
 
 Blog con entradas de desarrollo de software en español.
+
+## SG
+[https://sg.com.mx](https://sg.com.mx)
+Sitio web de SG con noticias y eventos próximos.
